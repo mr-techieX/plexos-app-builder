@@ -114,9 +114,7 @@ npm start
 ## 🗄️ Database Requirements
 
 The application expects SQLite database files with tables containing object classes and properties. The backend automatically detects common table name variations:
-
-**Class Tables**: `ObjectClass`, `objectclass`, `OBJECTCLASS`, `Classes`, `classes`, `CLASSES`
-**Property Tables**: `Property`, `property`, `PROPERTY`, `Properties`, `properties`, `PROPERTIES`
+`t_class`, `t_property`, `t_collection` and `t_object`.
 
 ## 🎯 Usage Workflow
 
