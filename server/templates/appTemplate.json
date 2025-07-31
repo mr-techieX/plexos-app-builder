@@ -1,0 +1,387 @@
+{
+    "studyId": "d499d898-17be-4e81-b0e8-23755b196d29",
+    "changesetId": "9b22be43-fa1c-4aab-8810-d6bfe1343fbd",
+    "modelInfo": {
+        "name": "Long Term- 25 years-State 1",
+        "displayName": "LT-25 years State 1"
+    },
+    "buttonsConfig": [
+        {
+            "name": "save",
+            "displayName": "Save"
+        },
+        {
+            "name": "run",
+            "displayName": "Run App"
+        }
+    ],
+    "inputProperties": [
+        {
+            "childObjectName": "Solar-1",
+            "childClassLangId": 22,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 414,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 665,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "childObjectName": "Wind-1",
+            "childClassLangId": 22,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 414,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 665,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "childObjectName": "Solar-exp-1",
+            "childClassLangId": 22,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 414,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 665,
+                    "type": 1
+                },
+                {
+                    "propertyLangId": 44,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 215,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 787,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "Wind-exp-1",
+            "childClassLangId": 22,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 414,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 665,
+                    "type": 1
+                },
+                {
+                    "propertyLangId": 44,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 215,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 787,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "BESS-1",
+            "childClassLangId": 61,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1665,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1756,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1667,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1666,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1668,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1669,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 44,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 215,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 787,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "BESS-exp-1",
+            "childClassLangId": 61,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1665,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1756,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1667,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1666,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1668,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 1669,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 849,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 44,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 215,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 787,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "Region",
+            "childClassLangId": 8,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 616,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "L1-2",
+            "childClassLangId": 11,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "RTC",
+            "childClassLangId": 3,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 455,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 445,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 612,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "IEX Sales",
+            "childClassLangId": 3,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 455,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 445,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 612,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "IEX Purchase",
+            "childClassLangId": 3,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 812,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 455,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 445,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 612,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "Annual Obligation",
+            "childClassLangId": 27,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 705,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 604,
+                    "type": 0
+                }
+            ]
+        },
+        {
+            "childObjectName": "Max Purchase",
+            "childClassLangId": 27,
+            "parentClassLangId": 1,
+            "parentObjectName": "System",
+            "properties": [
+                {
+                    "propertyLangId": 705,
+                    "type": 0
+                },
+                {
+                    "propertyLangId": 604,
+                    "type": 0
+                }
+            ]
+        }
+    ],
+    "dashboards": [
+        {
+            "configId": "33c709f2-3054-4548-9e44-9c71cf602758"
+        }
+    ],
+    "horizon": {
+        "enabled": true
+    },
+    "runConfig": {
+        "engine": {
+            "displayName": "10.0 R07",
+            "operatingSystem": "Linux"
+        },
+        "workerPool": {
+            "os": "Linux",
+            "cores": 2,
+            "memory": "16GB"
+        }
+    }
+}

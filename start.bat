@@ -1,0 +1,9 @@
+@echo off
+echo Starting PLEXOS App Builder...
+echo.
+echo Installing dependencies...
+call npm run install-all
+echo.
+echo Starting application...
+call npm start
+pause 
